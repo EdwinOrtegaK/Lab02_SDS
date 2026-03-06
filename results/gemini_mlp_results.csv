@@ -1,0 +1,2 @@
+model,accuracy_test,precision_test,recall_test,f1_test,roc_auc_test,cv10_acc_mean,cv10_acc_std,n_features
+"Gemini Embeddings (CLASSIFICATION, dim=768) + MLP",0.940337224383917,0.9425587467362925,0.9376623376623376,0.9401041666666666,0.9833288473184847,0.9477529484792054,0.021392615694937493,768
