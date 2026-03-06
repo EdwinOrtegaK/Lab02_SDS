@@ -1,0 +1,2 @@
+model,accuracy_test,precision_test,recall_test,f1_test,roc_auc_test,cv10_acc_mean,cv10_acc_std,n_features
+Logistic Regression (TF-IDF baseline),0.9584954604409858,0.9681697612732095,0.948051948051948,0.958005249343832,0.9833423053630308,0.9505369335816262,0.016731964474460497,4131
